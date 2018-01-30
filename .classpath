@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/antlr-3.4-complete.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.contenttype_3.5.0.v20150421-2214.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.jobs_3.7.0.v20150330-2103.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.resources_3.10.1.v20150725-1910.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.runtime_3.11.1.v20150903-1804.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.variables_3.2.800.v20130819-1716.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.common_3.7.0.v20150402-1709.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.preferences_3.5.300.v20150408-1437.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jdt.core_3.11.1.v20150902-1521.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.osgi_3.10.101.v20150820-1432.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.osgi.services_3.5.0.v20150519-2006.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.osgi.util_3.3.100.v20150423-1351.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.text_3.5.400.v20150505-1044.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,5 @@
+Q2: select ( <type_declaration> c ) 
+	where
+	  c.<interface_declaration>:name == Comparable
+	{}
+	print c;
